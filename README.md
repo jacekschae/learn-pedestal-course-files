@@ -1,4 +1,4 @@
-![alt learn-pedestal-logo](https://res.cloudinary.com/schae/image/upload/f_auto,q_auto:good/v1647616235/learnpedestal.com/1200x640.png)
+![alt learn-pedestal-logo](https://res.cloudinary.com/schae/image/upload/f_auto,q_auto:good,r_12/v1647616235/learnpedestal.com/1200x640.png)
 
 # [LearnPedestal.com](https://www.learnpedestal.com)
 
