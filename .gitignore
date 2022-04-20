@@ -1,0 +1,12 @@
+increments/**/.nrepl-port
+cheffy/**/cheffy.iml
+increments/**/cheffy.iml
+increments/**/learn-pedestal-course-files.iml
+increments/**/target/
+increments/**/*.md
+increments/**/resources/config.edn
+.nrepl-port
+.cpcache
+.idea
+.clj-kondo/
+.lsp/
