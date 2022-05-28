@@ -20,7 +20,7 @@
 
 (comment
 
-  (keys cr/system)
+  (:api-server cr/system)
 
   (start-dev)
 

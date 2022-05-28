@@ -13,7 +13,7 @@
 
 (def routes
   (route/expand-routes
-    #{{:app-name :cheffy :schema :http :host "learnpedestal.com"}
+    #{{:app-name :cheffy :schema :http :host "localhost"}
       ["/recipes" :get list-recipes :route-name :list-recipes]
       ["/recipes" :post upsert-recipe :route-name :create-recipe]
       ["/recipes/:recipe-id" :put upsert-recipe :route-name :update-recipe]}))
