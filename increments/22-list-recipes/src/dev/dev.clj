@@ -23,10 +23,6 @@
 
 (comment
 
-  (set! *print-namespace-maps* false)
-
-  (-> cr/system :api-server :service)
-
   (pt/response-for
     (-> cr/system :api-server :service ::http/service-fn)
     :get
