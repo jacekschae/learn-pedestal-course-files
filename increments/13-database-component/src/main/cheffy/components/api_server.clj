@@ -20,7 +20,7 @@
     (println ";; Stopping API server")
     (when service
       (http/stop service))
-    (dissoc component :service)))
+    (assoc component :service nil)))
 
 (defn service
   [service-map]
