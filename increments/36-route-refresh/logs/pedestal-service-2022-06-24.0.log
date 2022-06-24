@@ -1,0 +1,11 @@
+09:24:04.702 [nREPL-session-91bd473b-56dd-429e-a683-870e21d979ea] INFO  org.eclipse.jetty.util.log - Logging initialized @12239ms to org.eclipse.jetty.util.log.Slf4jLog
+09:24:04.800 [nREPL-session-91bd473b-56dd-429e-a683-870e21d979ea] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+09:24:04.820 [nREPL-session-91bd473b-56dd-429e-a683-870e21d979ea] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@37fae592{/,null,AVAILABLE}
+09:24:04.829 [nREPL-session-91bd473b-56dd-429e-a683-870e21d979ea] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@230e837a{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+09:24:04.829 [nREPL-session-91bd473b-56dd-429e-a683-870e21d979ea] INFO  org.eclipse.jetty.server.Server - Started @12366ms
+09:24:25.619 [nREPL-session-91bd473b-56dd-429e-a683-870e21d979ea] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+09:27:53.754 [nREPL-session-3ae22c53-ef73-4c48-a923-4ac3b73d648e] INFO  org.eclipse.jetty.util.log - Logging initialized @15512ms to org.eclipse.jetty.util.log.Slf4jLog
+09:27:53.850 [nREPL-session-3ae22c53-ef73-4c48-a923-4ac3b73d648e] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+09:27:53.869 [nREPL-session-3ae22c53-ef73-4c48-a923-4ac3b73d648e] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@64760488{/,null,AVAILABLE}
+09:27:53.877 [nREPL-session-3ae22c53-ef73-4c48-a923-4ac3b73d648e] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2efec585{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+09:27:53.877 [nREPL-session-3ae22c53-ef73-4c48-a923-4ac3b73d648e] INFO  org.eclipse.jetty.server.Server - Started @15636ms
