@@ -1,0 +1,189 @@
+15:03:52.233 [nREPL-session-b93b210d-91ec-4978-ae82-0c66da80ad9a] INFO  org.eclipse.jetty.util.log - Logging initialized @30460ms to org.eclipse.jetty.util.log.Slf4jLog
+15:03:52.330 [nREPL-session-b93b210d-91ec-4978-ae82-0c66da80ad9a] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:03:52.352 [nREPL-session-b93b210d-91ec-4978-ae82-0c66da80ad9a] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7d83b7ca{/,null,AVAILABLE}
+15:03:52.363 [nREPL-session-b93b210d-91ec-4978-ae82-0c66da80ad9a] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1503da55{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:03:52.363 [nREPL-session-b93b210d-91ec-4978-ae82-0c66da80ad9a] INFO  org.eclipse.jetty.server.Server - Started @30591ms
+15:03:53.917 [nREPL-session-b93b210d-91ec-4978-ae82-0c66da80ad9a] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:09:23.429 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.util.log - Logging initialized @80821ms to org.eclipse.jetty.util.log.Slf4jLog
+15:09:23.552 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:09:23.578 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@264fb3ce{/,null,AVAILABLE}
+15:09:23.589 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1de2e162{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:09:23.589 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @80983ms
+15:09:30.678 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:09:45.293 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:17:27.436 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1de2e162{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:17:27.437 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@264fb3ce{/,null,STOPPED}
+15:17:27.563 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:17:27.564 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@269fab08{/,null,AVAILABLE}
+15:17:27.565 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2953c20e{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:17:27.565 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @564963ms
+15:17:35.893 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:19:36.614 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2953c20e{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:19:36.615 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@269fab08{/,null,STOPPED}
+15:19:36.698 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:19:36.700 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@67b6842f{/,null,AVAILABLE}
+15:19:36.701 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@45c2a5fc{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:19:36.701 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @694098ms
+15:19:41.776 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:23:59.962 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@45c2a5fc{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:23:59.963 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@67b6842f{/,null,STOPPED}
+15:24:00.007 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:24:00.008 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6aae9d10{/,null,AVAILABLE}
+15:24:00.009 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@17561f26{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:24:00.009 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @957404ms
+15:24:09.172 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:24:09.174 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] ERROR i.p.http.impl.servlet-interceptor - {:msg "Dev interceptor caught an exception; Forwarding it as the response.", :line 314}
+clojure.lang.ExceptionInfo: java.lang.IllegalArgumentException in Interceptor :io.pedestal.http.route/router - Don't know how to create ISeq from: cheffy.routes$routes
+	at io.pedestal.interceptor.chain$throwable__GT_ex_info.invokeStatic(chain.clj:35)
+	at io.pedestal.interceptor.chain$throwable__GT_ex_info.invoke(chain.clj:32)
+	at io.pedestal.interceptor.chain$try_f.invokeStatic(chain.clj:57)
+	at io.pedestal.interceptor.chain$try_f.invoke(chain.clj:44)
+	at io.pedestal.interceptor.chain$process_all_with_binding.invokeStatic(chain.clj:171)
+	at io.pedestal.interceptor.chain$process_all_with_binding.invoke(chain.clj:146)
+	at io.pedestal.interceptor.chain$process_all$fn__12881.invoke(chain.clj:188)
+	at clojure.lang.AFn.applyToHelper(AFn.java:152)
+	at clojure.lang.AFn.applyTo(AFn.java:144)
+	at clojure.core$apply.invokeStatic(core.clj:667)
+	at clojure.core$with_bindings_STAR_.invokeStatic(core.clj:1990)
+	at clojure.core$with_bindings_STAR_.doInvoke(core.clj:1990)
+	at clojure.lang.RestFn.invoke(RestFn.java:425)
+	at io.pedestal.interceptor.chain$process_all.invokeStatic(chain.clj:186)
+	at io.pedestal.interceptor.chain$process_all.invoke(chain.clj:182)
+	at io.pedestal.interceptor.chain$enter_all.invokeStatic(chain.clj:235)
+	at io.pedestal.interceptor.chain$enter_all.invoke(chain.clj:229)
+	at io.pedestal.interceptor.chain$execute.invokeStatic(chain.clj:379)
+	at io.pedestal.interceptor.chain$execute.invoke(chain.clj:352)
+	at io.pedestal.interceptor.chain$execute.invokeStatic(chain.clj:389)
+	at io.pedestal.interceptor.chain$execute.invoke(chain.clj:352)
+	at io.pedestal.http.impl.servlet_interceptor$interceptor_service_fn$fn__17275.invoke(servlet_interceptor.clj:351)
+	at io.pedestal.http.servlet.FnServlet.service(servlet.clj:28)
+	at io.pedestal.test$servlet_response_for.invokeStatic(test.clj:242)
+	at io.pedestal.test$servlet_response_for.doInvoke(test.clj:232)
+	at clojure.lang.RestFn.applyTo(RestFn.java:146)
+	at clojure.core$apply.invokeStatic(core.clj:673)
+	at clojure.core$apply.invoke(core.clj:662)
+	at io.pedestal.test$raw_response_for.invokeStatic(test.clj:261)
+	at io.pedestal.test$raw_response_for.doInvoke(test.clj:249)
+	at clojure.lang.RestFn.applyTo(RestFn.java:146)
+	at clojure.core$apply.invokeStatic(core.clj:673)
+	at clojure.core$apply.invoke(core.clj:662)
+	at io.pedestal.test$response_for.invokeStatic(test.clj:283)
+	at io.pedestal.test$response_for.doInvoke(test.clj:271)
+	at clojure.lang.RestFn.invoke(RestFn.java:494)
+	at dev$eval19671.invokeStatic(dev.clj:61)
+	at dev$eval19671.invoke(dev.clj:61)
+	at clojure.lang.Compiler.eval(Compiler.java:7194)
+	at clojure.lang.Compiler.eval(Compiler.java:7149)
+	at clojure.core$eval.invokeStatic(core.clj:3215)
+	at clojure.core$eval.invoke(core.clj:3211)
+	at nrepl.middleware.interruptible_eval$evaluate$fn__978$fn__979.invoke(interruptible_eval.clj:87)
+	at clojure.lang.AFn.applyToHelper(AFn.java:152)
+	at clojure.lang.AFn.applyTo(AFn.java:144)
+	at clojure.core$apply.invokeStatic(core.clj:667)
+	at clojure.core$with_bindings_STAR_.invokeStatic(core.clj:1990)
+	at clojure.core$with_bindings_STAR_.doInvoke(core.clj:1990)
+	at clojure.lang.RestFn.invoke(RestFn.java:425)
+	at nrepl.middleware.interruptible_eval$evaluate$fn__978.invoke(interruptible_eval.clj:87)
+	at clojure.main$repl$read_eval_print__9206$fn__9209.invoke(main.clj:437)
+	at clojure.main$repl$read_eval_print__9206.invoke(main.clj:437)
+	at clojure.main$repl$fn__9215.invoke(main.clj:458)
+	at clojure.main$repl.invokeStatic(main.clj:458)
+	at clojure.main$repl.doInvoke(main.clj:368)
+	at clojure.lang.RestFn.invoke(RestFn.java:1523)
+	at nrepl.middleware.interruptible_eval$evaluate.invokeStatic(interruptible_eval.clj:84)
+	at nrepl.middleware.interruptible_eval$evaluate.invoke(interruptible_eval.clj:56)
+	at nrepl.middleware.interruptible_eval$interruptible_eval$fn__1009$fn__1013.invoke(interruptible_eval.clj:152)
+	at clojure.lang.AFn.run(AFn.java:22)
+	at nrepl.middleware.session$session_exec$main_loop__1077$fn__1081.invoke(session.clj:202)
+	at nrepl.middleware.session$session_exec$main_loop__1077.invoke(session.clj:201)
+	at clojure.lang.AFn.run(AFn.java:22)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.IllegalArgumentException: Don't know how to create ISeq from: cheffy.routes$routes
+	at clojure.lang.RT.seqFrom(RT.java:557)
+	at clojure.lang.RT.seq(RT.java:537)
+	at clojure.core$seq__5467.invokeStatic(core.clj:139)
+	at clojure.core$map$fn__5935.invoke(core.clj:2763)
+	at clojure.lang.LazySeq.sval(LazySeq.java:42)
+	at clojure.lang.LazySeq.seq(LazySeq.java:51)
+	at clojure.lang.RT.seq(RT.java:535)
+	at clojure.core$seq__5467.invokeStatic(core.clj:139)
+	at clojure.core$some.invokeStatic(core.clj:2709)
+	at clojure.core$some.invoke(core.clj:2709)
+	at io.pedestal.http.route.map_tree$router.invokeStatic(map_tree.clj:55)
+	at io.pedestal.http.route.map_tree$router.invoke(map_tree.clj:51)
+	at io.pedestal.http.route$eval14008$fn__14009$fn__14010.invoke(route.clj:471)
+	at io.pedestal.interceptor.chain$try_f.invokeStatic(chain.clj:54)
+	... 61 common frames omitted
+15:24:24.051 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@17561f26{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:24:24.052 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6aae9d10{/,null,STOPPED}
+15:24:24.106 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:24:24.107 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6b2c4db9{/,null,AVAILABLE}
+15:24:24.108 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1c1df6ae{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:24:24.108 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @981503ms
+15:24:28.357 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:24:47.813 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:24:54.323 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:26:54.978 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1c1df6ae{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:26:54.978 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6b2c4db9{/,null,STOPPED}
+15:26:55.050 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:26:55.052 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@49e1a538{/,null,AVAILABLE}
+15:26:55.053 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3da0fb4a{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:26:55.053 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @1132447ms
+15:26:59.681 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:28:37.512 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3da0fb4a{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:28:37.512 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@49e1a538{/,null,STOPPED}
+15:28:37.560 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:28:37.562 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@9322220{/,null,AVAILABLE}
+15:28:37.563 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@392e9e7f{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:28:37.563 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @1234956ms
+15:30:35.793 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:30:45.644 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:31:00.950 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@392e9e7f{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:31:00.950 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@9322220{/,null,STOPPED}
+15:31:00.974 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:31:00.975 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6ff0dabe{/,null,AVAILABLE}
+15:31:00.976 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6ff8ff3f{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:31:00.976 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @1378368ms
+15:31:55.622 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6ff8ff3f{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:31:55.622 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6ff0dabe{/,null,STOPPED}
+15:31:55.664 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:31:55.665 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@61160710{/,null,AVAILABLE}
+15:31:55.666 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6860999{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:31:55.667 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @1433058ms
+15:33:33.022 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6860999{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:33:33.022 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@61160710{/,null,STOPPED}
+15:33:33.078 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:33:33.080 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@38211413{/,null,AVAILABLE}
+15:33:33.080 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@31f2acc9{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:33:33.080 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @1530472ms
+15:33:50.167 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:34:12.955 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:37:49.375 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:37:59.269 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:38:00.123 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:38:00.875 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:38:01.403 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:38:01.984 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:38:53.597 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:39:00.771 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:39:41.376 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:42:03.172 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@31f2acc9{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:42:03.172 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@38211413{/,null,STOPPED}
+15:42:03.238 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:42:03.239 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1ea2af26{/,null,AVAILABLE}
+15:42:03.240 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@564a0714{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:42:03.241 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @2040628ms
+15:42:24.403 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:42:42.700 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:45:08.901 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:45:19.308 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:46:52.690 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@564a0714{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:46:52.690 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1ea2af26{/,null,STOPPED}
+15:46:52.760 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
+15:46:52.761 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@312ed2d9{/,null,AVAILABLE}
+15:46:52.763 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5b2421ce{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:46:52.763 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  org.eclipse.jetty.server.Server - Started @2330148ms
+15:46:57.558 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:47:05.375 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  io.pedestal.http - {:msg "GET /recipes", :line 80}
+15:49:10.398 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5b2421ce{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
+15:49:10.399 [nREPL-session-5047b27f-6aa3-4e13-97d8-9df92075afd0] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@312ed2d9{/,null,STOPPED}
