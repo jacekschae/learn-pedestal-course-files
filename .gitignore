@@ -1,6 +1,7 @@
 increments/**/.nrepl-port
 cheffy/**/cheffy.iml
 increments/**/cheffy.iml
+increments/**/logs/*
 increments/**/learn-pedestal-course-files.iml
 increments/**/target/
 increments/**/*.md

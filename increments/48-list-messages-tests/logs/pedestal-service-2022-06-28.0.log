@@ -1,5 +1,0 @@
-09:51:50.460 [nREPL-session-51fcdaa7-2acc-4a0e-a988-057f262b6a2a] INFO  org.eclipse.jetty.util.log - Logging initialized @15979ms to org.eclipse.jetty.util.log.Slf4jLog
-09:51:50.632 [nREPL-session-51fcdaa7-2acc-4a0e-a988-057f262b6a2a] INFO  org.eclipse.jetty.server.Server - jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 17.0.2+8
-09:51:50.658 [nREPL-session-51fcdaa7-2acc-4a0e-a988-057f262b6a2a] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3807fed2{/,null,AVAILABLE}
-09:51:50.673 [nREPL-session-51fcdaa7-2acc-4a0e-a988-057f262b6a2a] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@221e3de{HTTP/1.1, (http/1.1, h2c)}{localhost:3000}
-09:51:50.674 [nREPL-session-51fcdaa7-2acc-4a0e-a988-057f262b6a2a] INFO  org.eclipse.jetty.server.Server - Started @16194ms
