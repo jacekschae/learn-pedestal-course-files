@@ -6,6 +6,7 @@ increments/**/learn-pedestal-course-files.iml
 increments/**/target/
 increments/**/*.md
 increments/**/resources/config.edn
+increments/**/config/cheffy/development.edn
 .nrepl-port
 .cpcache
 .idea
