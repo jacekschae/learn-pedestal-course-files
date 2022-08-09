@@ -1,8 +1,0 @@
-{:service-map {:env :dev
-               :io.pedestal.http/type :jetty
-               :io.pedestal.http/join? false
-               :io.pedestal.http/port 3000}
- :database {:server-type :dev-local
-            :system "api.learnpedestal.com"
-            :storage-dir :mem
-            :db-name "development"}}
