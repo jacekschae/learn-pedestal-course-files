@@ -1,0 +1,4 @@
+{:allow []
+ :lambdas {}
+ :http-direct {:handler-fn symbol}
+ :app-name "cheffy"}
