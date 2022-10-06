@@ -3,9 +3,6 @@
   "src/main"
   "src/resources"]
 
- :mvn/repos
- {"datomic-cloud" {:url "s3://datomic-releases-1fc2183a/maven/releases"}}
-
  :deps
  {io.pedestal/pedestal.service {:mvn/version "0.5.10"}
   io.pedestal/pedestal.route {:mvn/version "0.5.10"}
@@ -19,9 +16,7 @@
   com.cognitect.aws/cognito-idp {:mvn/version "822.2.1145.0", :aws/serviceFullName "Amazon Cognito Identity Provider"}
   com.auth0/java-jwt {:mvn/version "4.0.0"}
   com.auth0/jwks-rsa {:mvn/version "0.21.1"}
-  org.clojure/data.json {:mvn/version "2.4.0"}
-  com.datomic/ion {:mvn/version "1.0.57"}
-  com.datomic/client-cloud {:mvn/version "1.0.117"}}
+  org.clojure/data.json {:mvn/version "2.4.0"}}
 
  :aliases
  {:dev
